@@ -2,7 +2,7 @@
 Lista TypeScript
 
 # `Descrição`
-[Projeto desenvolvido na semana 15 do curso Labenu] </br>
+[Projeto desenvolvido na semana 15 do curso Labenu]. </br>
 Este projeto consiste na resolução de uma lista de exercícios em linguagem TypeScript. Tratam-se de 11 exercícios, onde todos foram resolvidos.
 Os exercícios abordam os assuntos de lógica de programação, tipagem, etc.
 
